@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Vikas Barupal
 **A passionate Software Engineer || Backend Engineer || B.tech CSE student @IIITDM Jabalpur**
 
-Email Me 👉 ✉️ **barupalrekha3** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Marevlo
 - 🌱 **I’m currently learning:** System Design
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** barupalrekha3@gmail.com
 - 😄 **Pronouns:** Vikas
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 # 💻 Tech Stack:
