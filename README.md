@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 
 
-- 🔭 **I’m currently working on:** Marevlo
 
 - 🌱 **I’m currently learning:** System Design
 
