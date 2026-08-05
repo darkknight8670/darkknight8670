@@ -6,6 +6,14 @@
 
 Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+### 🌐 Connect with me
+
+- GitHub: https://github.com/darkknight8670
+- LinkedIn: <your-linkedin>
+- Codeforces: <your-profile>
+- CodeChef: <your-profile>
+- LeetCode: <your-profile>
+
 
 
 
@@ -37,12 +45,13 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 ## 🚀 Open Source Contributions
 
-- 🔹 OpenTelemetry Collector Contrib
-  - Merged PR: exporter/prometheusremotewrite retry on context.DeadlineExceeded (#49691)
-  - Working on metricstransform validation improvements
+### OpenTelemetry Collector Contrib
+- ✅ Merged PR: Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter (#49691)
+- 🔄 Active contributor with additional improvements under review
 
-- 🔹 OpenSSF Scorecard
-  - Contributed fixes for GitLab tarball extraction
+### OpenSSF Scorecard
+- ✅ Contributed fixes for GitLab tarball extraction
+- 🔄 Working on repository quality and testing improvements
 
 # 📊 GitHub Stats:
 
@@ -52,10 +61,6 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=darkknight8670&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-
-![](https://github-profile-trophy.vercel.app/?username=darkknight8670&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -73,7 +78,7 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 ---
 
-[![](![](https://komarev.com/ghpvc/?username=darkknight8670&label=Profile%20Views&color=0e75b6&style=flat))](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=darkknight8670&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/darkknight8670)
 
 
 
