@@ -4,14 +4,15 @@
 
 
 
+
 Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ### 🌐 Connect with me
 
-- GitHub: https://github.com/darkknight8670
-- LinkedIn:[ <your-linkedin>](https://www.linkedin.com/in/vikas-barupal-3a754129b/)
-- Codeforces: [<your-profile>](https://codeforces.com/profile/barupal_263)
-- LeetCode: [<your-profile>](https://leetcode.com/u/barupal_8670/)
+- GitHub: [darkknight8670](https://github.com/darkknight8670)
+- LinkedIn: [Vikas Barupal](https://www.linkedin.com/in/vikas-barupal-3a754129b/)
+- Codeforces: [barupal_263](https://codeforces.com/profile/barupal_263)
+- LeetCode: [barupal_8670](https://leetcode.com/u/barupal_8670/)
 
 
 
@@ -82,9 +83,9 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 ### 🔝 Top Contributed Repo
 
-[![Top Contributed Repo](https://img.shields.io/badge/Top%20Contributed%20Repo-opentelemetry--collector--contrib-blue?style=for-the-badge&logo=github)](https://github.com/darkknight8670/opentelemetry-collector-contrib)
+[![Top Contributed Repo](https://img.shields.io/badge/Top%20Contributed%20Repo-opentelemetry--collector--contrib-blue?style=for-the-badge&logo=github)](https://github.com/darkknight8670/openteleme[...])
 
-<!-- Replaced the third-party contributor-stats widget (which returned a blank image) with a linked badge to the opentelemetry-collector-contrib repo. If you'd like a different repo highlighted or a different style, tell me and I can update it. -->
+<!-- Replaced the third-party contributor-stats widget (which returned a blank image) with a linked badge to the opentelemetry-collector-contrib repo. If you'd like a different repo highlighted or a d[...] 
 
 ---
 
