@@ -9,10 +9,9 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 ### 🌐 Connect with me
 
 - GitHub: https://github.com/darkknight8670
-- LinkedIn: <your-linkedin>
-- Codeforces: <your-profile>
-- CodeChef: <your-profile>
-- LeetCode: <your-profile>
+- LinkedIn:[ <your-linkedin>](https://www.linkedin.com/in/vikas-barupal-3a754129b/)
+- Codeforces: [<your-profile>](https://codeforces.com/profile/barupal_263)
+- LeetCode: [<your-profile>](https://leetcode.com/u/barupal_8670/)
 
 
 
