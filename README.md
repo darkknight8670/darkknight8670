@@ -15,13 +15,15 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 - 📫 **How to reach me:** barupalrekha3@gmail.com
 
-- 😄 **Pronouns:** Vikas
+- 🔭 Currently contributing to OpenTelemetry and OpenSSF
 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🌱 Learning Distributed Systems & System Design
+
+- 💡 Interested in Backend, Cloud Native and Open Source
 
  ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=darkknight8670&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
 
@@ -33,7 +35,14 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 </div>
 
+## 🚀 Open Source Contributions
 
+- 🔹 OpenTelemetry Collector Contrib
+  - Merged PR: exporter/prometheusremotewrite retry on context.DeadlineExceeded (#49691)
+  - Working on metricstransform validation improvements
+
+- 🔹 OpenSSF Scorecard
+  - Contributed fixes for GitLab tarball extraction
 
 # 📊 GitHub Stats:
 
@@ -45,7 +54,6 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 
 
-## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=darkknight8670&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
