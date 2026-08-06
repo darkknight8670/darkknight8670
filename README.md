@@ -1,40 +1,46 @@
-# 💫 Hi 👋, I'm Vikas Barupal
+# 💫 Hi, I'm Vikas Barupal (darkknight8670)
 
-**A passionate Software Engineer || Backend Engineer || B.tech CSE student @IIITDM Jabalpur**
+**Software Engineer • Backend Engineer • B.Tech CSE student @ IIITDM Jabalpur**
 
+I'm passionate about backend systems, cloud-native development, and contributing to open source. I enjoy solving problems, learning distributed systems, and building reliable services.
 
+📫 Email: barupalrekha3@gmail.com
 
+---
 
-Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 - GitHub: [darkknight8670](https://github.com/darkknight8670)
 - LinkedIn: [Vikas Barupal](https://www.linkedin.com/in/vikas-barupal-3a754129b/)
 - Codeforces: [barupal_263](https://codeforces.com/profile/barupal_263)
 - LeetCode: [barupal_8670](https://leetcode.com/u/barupal_8670/)
 
+---
 
+## 🔭 About Me
 
+- 🌱 Currently learning: System Design, Distributed Systems
+- 🔧 Interests: Backend, Cloud Native, Observability, Open Source
+- 💬 Ask me about: Collaboration, Tech Support, System Design
+- 🔭 Actively contributing to: OpenTelemetry Collector Contrib, OpenSSF
 
+---
 
-- 🌱 **I’m currently learning:** System Design
+## 🚀 Open Source Contributions
 
-- 💬 **Ask me about:** Collaboration, Tech Support
+### OpenTelemetry Collector Contrib
+- ✅ Merged PR: Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter (#49691)
+- 🔄 Active contributor — ongoing improvements and reviews
 
-- 📫 **How to reach me:** barupalrekha3@gmail.com
+### OpenSSF Scorecard
+- ✅ Contributed fixes for GitLab tarball extraction
+- 🔄 Working on repository quality and testing improvements
 
-- 🔭 Currently contributing to OpenTelemetry and OpenSSF
+(If you'd like a curated list of my public PRs/commits, I can add a section that automatically links them.)
 
-- 🌱 Learning Distributed Systems & System Design
+---
 
-- 💡 Interested in Backend, Cloud Native and Open Source
-
- ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=darkknight8670&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 <p align="left">
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,23 +55,17 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%23181717.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
+---
+
 <div align="center">
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+![](https://github-profile-trophy.vercel.app/?username=darkknight8670&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
-## 🚀 Open Source Contributions
+---
 
-### OpenTelemetry Collector Contrib
-- ✅ Merged PR: Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter (#49691)
-- 🔄 Active contributor with additional improvements under review
-
-### OpenSSF Scorecard
-- ✅ Contributed fixes for GitLab tarball extraction
-- 🔄 Working on repository quality and testing improvements
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=darkknight8670&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
@@ -73,23 +73,23 @@ Email Me 👉 ✉️ **barupalrekha3@gmail.com** For Collaboration/Project or An
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=darkknight8670&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+---
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+---
 
 ### 🔝 Top Contributed Repo
 
-[![Top Contributed Repo](https://img.shields.io/badge/Top%20Contributed%20Repo-opentelemetry--collector--contrib-blue?style=for-the-badge&logo=github)](https://github.com/darkknight8670/openteleme[...])
-
-<!-- Replaced the third-party contributor-stats widget (which returned a blank image) with a linked badge to the opentelemetry-collector-contrib repo. If you'd like a different repo highlighted or a d[...] 
+[![Top Contributed Repo](https://img.shields.io/badge/Top%20Contributed%20Repo-opentelemetry--collector--contrib-blue?style=for-the-badge&logo=github)](https://github.com/open-telemetry/opentelemetry-collector-contrib)
 
 ---
 
 [![](https://komarev.com/ghpvc/?username=darkknight8670&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/darkknight8670)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+*This README was updated to be concise and professional. If you want additional sections (projects, pinned repos with descriptions, automation for latest contributions, or a README badge for resume/portfolio), tell me which ones and I'll add them.*
