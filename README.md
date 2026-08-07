@@ -29,7 +29,7 @@ I'm passionate about backend systems, cloud-native development, and contributing
 ## 🚀 Open Source Contributions
 
 ### OpenTelemetry Collector Contrib
-- ✅ Merged PR: Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter (#49691)
+- ✅ Merged PR: Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter ([#49691](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/49691))
 - 🔄 Active contributor — ongoing improvements and reviews
 
 ### OpenSSF Scorecard
@@ -92,4 +92,4 @@ I'm passionate about backend systems, cloud-native development, and contributing
 
 ---
 
-*This README was updated to be concise and professional. If you want additional sections (projects, pinned repos with descriptions, automation for latest contributions, or a README badge for resume/portfolio), tell me which ones and I'll add them.*
+*This README was updated to be concise and professional. If you want additional sections (projects, pinned repos with descriptions, automation for latest contributions, or a README badge for resume/portfolio), I can add them — tell me which parts you'd like and I will update the file.*
