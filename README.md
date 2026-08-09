@@ -2,7 +2,7 @@
 
 **Software Engineer • Backend Engineer • B.Tech CSE student @ IIITDM Jabalpur**
 
-I'm passionate about backend systems, cloud-native development, and contributing to open source. I enjoy solving problems, learning distributed systems, and building reliable services.
+I'm passionate about backend systems, cloud-native development, and contributing to open source. I enjoy solving problems, learning distributed systems, and building reliable, production-ready services.
 
 📫 Email: barupalrekha3@gmail.com
 
@@ -14,8 +14,7 @@ I'm passionate about backend systems, cloud-native development, and contributing
 - LinkedIn: [Vikas Barupal](https://www.linkedin.com/in/vikas-barupal-3a754129b/)
 - Codeforces: [barupal_263](https://codeforces.com/profile/barupal_263)
 - LeetCode: [barupal_8670](https://leetcode.com/u/barupal_8670/)
-
-[![Resume / Portfolio](https://img.shields.io/badge/Resume%20%2F%20Portfolio-View%20Portfolio-blue?style=flat-square&logo=github)](https://github.com/darkknight8670/portfolio)
+- Portfolio / Resume: https://github.com/darkknight8670/portfolio
 
 ---
 
@@ -38,7 +37,7 @@ I'm passionate about backend systems, cloud-native development, and contributing
 - ✅ Contributed fixes for GitLab tarball extraction
 - 🔄 Working on repository quality and testing improvements
 
-(If you'd like a curated list of my public PRs/commits, I can add a section that automatically links them.)
+(If you'd like, I can add an automated section listing recent public PRs/commits.)
 
 ---
 
@@ -91,7 +90,6 @@ I'm passionate about backend systems, cloud-native development, and contributing
 
 [![](https://komarev.com/ghpvc/?username=darkknight8670&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/darkknight8670)
 
-
 ---
 
-*This README was updated to be concise and professional. If you want additional sections (projects, pinned repos with descriptions, automation for latest contributions, or a README badge for resume/portfolio), I can add them — tell me which parts you'd like and I will update the file.*
+*This README was updated to be concise and professional. If you want additional sections (projects, pinned repos with descriptions, automation for latest contributions, or a resume badge), tell me which sections to add and I will update it.*
