@@ -31,6 +31,7 @@ I'm passionate about backend systems, cloud-native development, and contributing
 
 ### OpenTelemetry Collector Contrib
 - ✅ Merged PR: Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter ([#49691](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/49691))
+- ✅ Merged PR: receiver/sqlserver: preserve query plan when attribute obfuscation fails
 - 🔄 Active contributor — ongoing improvements and reviews
 
 ### OpenSSF Scorecard
