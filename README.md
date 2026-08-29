@@ -2,7 +2,7 @@
 
 **Software Engineer • Backend Engineer • B.Tech CSE student @ IIITDM Jabalpur**
 
-I'm passionate about backend systems, cloud-native development, and contributing to open source. I enjoy solving complex problems, learning distributed systems, and building reliable, production-ready services that scale.
+I'm passionate about backend systems, cloud-native development, and contributing to open source. I enjoy solving complex problems, learning distributed systems, and building reliable, production-ready systems.
 
 📫 Email: barupalrekha3@gmail.com
 
@@ -61,7 +61,7 @@ I'm passionate about backend systems, cloud-native development, and contributing
 ## 📂 Featured Projects
 
 ### Backend & System Design
-- **[OpenTelemetry Collector Contrib](https://github.com/darkknight8670/opentelemetry-collector-contrib)** - Contrib repository for the OpenTelemetry Collector (Go)
+- **[OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)** - Contrib repository for the OpenTelemetry Collector (Go)
 - **[OpenSSF Scorecard](https://github.com/darkknight8670/scorecard)** - Security health metrics for open source projects (Go)
 - **[Fusion](https://github.com/darkknight8670/Fusion)** - Full-stack project management system
 - **[Fusion Client](https://github.com/darkknight8670/Fusion-client)** - React client for Fusion application
@@ -126,4 +126,4 @@ I'm passionate about backend systems, cloud-native development, and contributing
 
 ---
 
-*Last updated: 2026-08-09 | Feel free to reach out for collaboration opportunities!*
+*Last updated: 2026-08-29 | Feel free to reach out for collaboration opportunities!*
