@@ -1,55 +1,129 @@
-<h1 align="center">Hi there, I'm Harsh Raj! 👋</h1>
-<h3 align="center">Electronics & Communication Engineering Undergraduate @ IIITDM Jabalpur | Developer | UI Designer</h3>
+# 💫 Hi, I'm Vikas Barupal (darkknight8670)
 
-<p align="center">
-  <i>I like to explore new technologies and build products that make a positive impact.</i>
+**Software Engineer • Backend Engineer • B.Tech CSE student @ IIITDM Jabalpur**
+
+I'm passionate about backend systems, cloud-native development, and contributing to open source. I enjoy solving complex problems, learning distributed systems, and building reliable, production-ready systems.
+
+📫 Email: barupalrekha3@gmail.com
+
+---
+
+## 🌐 Connect with me
+
+- **GitHub**: [darkknight8670](https://github.com/darkknight8670)
+- **LinkedIn**: [Vikas Barupal](https://www.linkedin.com/in/vikas-barupal-3a754129b/)
+- **Codeforces**: [barupal_263](https://codeforces.com/profile/barupal_263)
+- **LeetCode**: [barupal_8670](https://leetcode.com/u/barupal_8670/)
+- **Portfolio**: [darkknight8670/portfolio](https://github.com/darkknight8670/portfolio)
+
+---
+
+## 🔭 About Me
+
+- 🌱 Currently learning: System Design, Distributed Systems, Cloud Architecture
+- 🔧 Interests: Backend Development, Cloud Native, Observability, Open Source Contributions
+- 💬 Ask me about: System Design, Technical Collaboration, Backend Architecture
+- 🚀 Actively contributing to: OpenTelemetry Collector Contrib, OpenSSF Scorecard
+
+---
+
+## 🚀 Open Source Contributions
+
+### OpenTelemetry Collector Contrib
+- ✅ **Merged PR #49691**: [Retry on `context.DeadlineExceeded` in Prometheus Remote Write Exporter](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/49691)
+- ✅ **Merged PR #50070**: [receiver/sqlserver: Preserve query plan when attribute obfuscation fails](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/50070)
+- 🔄 Active contributor — ongoing improvements, bug fixes, and code reviews
+
+### OpenSSF Scorecard
+- ✅ Contributed fixes for GitLab tarball extraction and reliability improvements
+- 🔄 Working on repository quality metrics and test coverage enhancements
+- [Repository](https://github.com/darkknight8670/scorecard)
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%23181717.svg?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-<br/>
+---
 
-## 👨🏻‍💻 About Me
+## 📂 Featured Projects
 
-- 🎓 I'm currently in my 7th semester studying **Electronics and Communication Engineering** at the Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur.
-- 💡 I love exploring new tech stacks and developing helpful products for others.
-- ✍️ In my free time, I take on **UI Design** as a hobby and side hustle.
-- 📚 When I'm not coding or designing, you can usually find me reading books on Indian history.
-- ✉️ Let's connect! Shoot me an email at [harshrj1501@gmail.com](mailto:harshrj1501@gmail.com) and I'll try to respond as soon as I can.
+### Backend & System Design
+- **[OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)** - Contrib repository for the OpenTelemetry Collector (Go)
+- **[OpenSSF Scorecard](https://github.com/darkknight8670/scorecard)** - Security health metrics for open source projects (Go)
+- **[Fusion](https://github.com/darkknight8670/Fusion)** - Full-stack project management system
+- **[Fusion Client](https://github.com/darkknight8670/Fusion-client)** - React client for Fusion application
 
-## 🛠️ Tech Stack & Tools
-
-### Languages & Core
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Web Applications
+- **[Hostel Management System](https://github.com/darkknight8670/Hostel-Management-System)** - Comprehensive hostel management application (JavaScript)
+- **[EV Charging Deployment](https://github.com/darkknight8670/evcharge-deployment)** - Electric vehicle charging infrastructure platform (JavaScript)
+- **[Team Task Manager](https://github.com/darkknight8670/team-task-manager-assignment)** - Collaborative task management tool (JavaScript)
+- **[Expenses Tracker](https://github.com/darkknight8670/personal-expenses_tracker)** - Personal finance management application
 
 ### Data Science & ML
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+- **[Brain Tumor Detection](https://github.com/darkknight8670/brain-tum-detection)** - Machine learning project for medical imaging (Jupyter Notebook)
+- **[Image Forgery Detection](https://github.com/darkknight8670/Image-forgery-detection)** - Deep learning for image authentication (Jupyter Notebook)
+- **[Cricklytics](https://github.com/darkknight8670/Cricklytics-Cricket-Data-Analytics)** - Cricket data analytics and visualization (Jupyter Notebook)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+### Blockchain & IoT
+- **[P2P EV Charging](https://github.com/darkknight8670/Peer-to-peer-EV-charging-using-blockchain)** - Peer-to-peer electric vehicle charging using blockchain (JavaScript)
+- **[V2V EV Charging](https://github.com/darkknight8670/v2v-ev-charging)** - Vehicle-to-vehicle charging system (TypeScript)
 
-<br/>
+### Other Projects
+- **[Rajasthan CET Mock Center](https://github.com/darkknight8670/rajasthan-cet-mock-center)** - Mock exam platform (TypeScript)
+- **[Reel Pro ImageKit](https://github.com/darkknight8670/reel-pro-imagekit)** - Media management tool (TypeScript)
+- **[Javascript Codes](https://github.com/darkknight8670/Javascript-Codes)** - JavaScript tutorial series code repository
 
-## 📈 GitHub Stats
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+
+![](https://github-profile-trophy.vercel.app/?username=darkknight8670&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=darkknight8670&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=darkknight8670&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=darkknight8670&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repository
+
+[![Top Contributed Repo](https://img.shields.io/badge/Top%20Contributed%20Repo-opentelemetry--collector--contrib-blue?style=flat-square&logo=github)](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=darkknight8670&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/darkknight8670)
+
+</div>
+
+---
+
+*Last updated: 2026-08-29 | Feel free to reach out for collaboration opportunities!*
